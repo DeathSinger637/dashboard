@@ -1,6 +1,6 @@
 const config = {
   // Bot Owner, level 10 by default. A User ID. Should never be anything else than the bot owner's ID.
-  ownerID: '425823717436948493',
+  ownerID: '',
 
   // Bot Admins, level 9 by default. Array of user ID strings.
   admins: [],
@@ -9,10 +9,10 @@ const config = {
   support: [],
 
   // Your Bot's Token. Available on https://discordapp.com/developers/applications/me
-  token: 'NTIxMTk2Mjk5ODYxODg0OTM4.Du7OVQ.v0Vauc_hy1Iqnu2KqeQZV6T-36A',
+  token: '',
 
   dashboard: {
-    oauthSecret: '4fakHME86IveHfM4lC0AZ_jI9jATW9CY',
+    oauthSecret: '',
     callbackURL: 'http://localhost:8080/callback',
     sessionSecret: 'enterasecrethere',
     domain: 'localhost',
